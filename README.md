@@ -2,7 +2,7 @@
 
 **Software Architect**
 
-15+ years architecting scalable systems | Speech Platform Expert | Healthcare Tech
+15+ years developing, designing and architecting scalable systems | Speech Platform Expert | Healthcare | Virtualization | Cloud Computing | Go Lang, Java, Python
 
 ---
 
@@ -11,7 +11,7 @@
 - **Email**: burli.badari@gmail.com
 - **Phone**: +91-9035572137
 - **Blog**: http://badariburli.blogspot.com/
-- **GitHub**: https://github.com/badari31
+- **GitHub**: https://github.com/bburli-craft
 - **LinkedIn**: https://www.linkedin.com/in/bburli
 
 ---
@@ -170,7 +170,7 @@ Sophisticated distributed work coordination library implementing "stream of stre
 
 ## About
 
-Dad, geek and writer (sort of).
+Dad, programmer and book worm. Believe in thoughtful design over quick fixes.
 
 ---
 
